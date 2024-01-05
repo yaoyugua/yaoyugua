@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @yaoyugua
-- 👀 I’m interested in math, computer, gym.
-- 🌱 I’m currently learning diffusion.
-- 💞️ I’m looking to collaborate on cs phd.
 - 📫 How to reach me yaoyugua@msu.edu
 
 <!---

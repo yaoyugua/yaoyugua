@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yaoyugua
-- 📫 How to reach me yaoyugua@msu.edu
+- 📫 How to reach me yuguang_yao@intuit.com
 
 <!---
 yaoyugua/yaoyugua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
